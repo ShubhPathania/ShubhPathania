@@ -1,5 +1,5 @@
 
-<img align="center" width="900" height="250" src="https://github.com/user-attachments/assets/57431065-d80c-44bf-978c-893559240a56" alt="Image description">
+<img align="center" width="900" height="220" src="https://github.com/user-attachments/assets/57431065-d80c-44bf-978c-893559240a56" alt="Image description">
 
 <h1 align="center">Hi 👋, I'm Shubh</h1>
 
