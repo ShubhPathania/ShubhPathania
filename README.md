@@ -42,13 +42,6 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" alt="premiere pro" width="40" height="40"/> </a>
   </p>
 
-![1 Data Cleaning](https://github.com/user-attachments/assets/32beb243-abf9-422f-8975-7d21dc226e10)
-![2 Box Plot](https://github.com/user-attachments/assets/96776c19-ff3d-4ece-8a67-5fca44a9bec0)
-![3 Relative Frequency](https://github.com/user-attachments/assets/f7885190-fc37-4dad-9339-4ff8b24b7452)
-![4 Data Analysis](https://github.com/user-attachments/assets/d73fe458-1f14-4c0d-b2db-38abe0e45053)
-![5 Pie Chart](https://github.com/user-attachments/assets/e459a512-9f0d-4c0e-a46e-00c678a760f3)
-![6 Decision Making](https://github.com/user-attachments/assets/7bdce3bc-3dde-457b-9b81-e571953da909)
-
 <h2 align="left">Profile Stats:</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhpathania&theme=dracula" alt="shubhpathania" />
